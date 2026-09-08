@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CPI.API\Extensions\" />
+    <Folder Include="CPI.API\Middlewares\" />
+    <Folder Include="CPI.API\Filters\" />
+    <Folder Include="CPI.Application\UseCases\" />
+    <Folder Include="CPI.Application\Validators\" />
+    <Folder Include="CPI.Application\Services\" />
+    <Folder Include="CPI.Domain\Enums\" />
+    <Folder Include="CPI.Domain\Exceptions\" />
+    <Folder Include="CPI.Domain\Interfaces\" />
+    <Folder Include="CPI.Domain\ValueObjects\" />
+    <Folder Include="CPI.Infrastructure\Data\Context\" />
+    <Folder Include="CPI.Infrastructure\Data\Configurations\" />
+    <Folder Include="CPI.Infrastructure\Data\Repositories\" />
+    <Folder Include="CPI.Infrastructure\DependencyInjection\" />
+    <Folder Include="CPI.Infrastructure\Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="10.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="10.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.22.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.22.0" />
+  </ItemGroup>
+
+</Project>

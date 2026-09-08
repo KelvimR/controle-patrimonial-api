@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TEMP\\controle-patrimonial-api\\CPI.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E158343D-4029-4D6D-A721-21C441E85987}|CPI.API.csproj|c:\\temp\\controle-patrimonial-api\\cpi.api\\cpi.application\\interfaces\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E158343D-4029-4D6D-A721-21C441E85987}|CPI.API.csproj|solutionrelative:cpi.application\\interfaces\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E158343D-4029-4D6D-A721-21C441E85987}|CPI.API.csproj|c:\\temp\\controle-patrimonial-api\\cpi.api\\cpi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E158343D-4029-4D6D-A721-21C441E85987}|CPI.API.csproj|solutionrelative:cpi.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserAuthService.cs",
+              "DocumentMoniker": "C:\\TEMP\\controle-patrimonial-api\\CPI.API\\CPI.Application\\Interfaces\\IUserAuthService.cs",
+              "RelativeDocumentMoniker": "CPI.Application\\Interfaces\\IUserAuthService.cs",
+              "ToolTip": "C:\\TEMP\\controle-patrimonial-api\\CPI.API\\CPI.Application\\Interfaces\\IUserAuthService.cs",
+              "RelativeToolTip": "CPI.Application\\Interfaces\\IUserAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:17:59.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\TEMP\\controle-patrimonial-api\\CPI.API\\CPI.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CPI.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\TEMP\\controle-patrimonial-api\\CPI.API\\CPI.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CPI.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T18:10:53.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
